@@ -8,7 +8,7 @@
     <description>Hadoop Command Line Interface</description>
     <properties>
         <!-- See Profiles for the correct version of Hadoop -->
-        <!--<hadoop.version>2.7.1.2.4.1.0-327</hadoop.version>-->
+        <!-- <hadoop.version>2.7.1.2.4.1.0-327</hadoop.version> -->
         <!--<hadoop.version>2.6.0.2.2.8.0-3150</hadoop.version>-->
         <junit.version>4.11</junit.version>
         <jackson.parser>2.7.3</jackson.parser>
